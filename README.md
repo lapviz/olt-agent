@@ -135,3 +135,8 @@ Help: info@openlivetiming.com
 
 Product names are trademarks of their respective owners. Open Live Timing is not affiliated with, endorsed or
 sponsored by them; the names only describe compatibility.
+
+## Licence
+
+The agent is free to use, including at commercial events, and free to redistribute unmodified: see [LICENSE](LICENSE).
+It includes open source components listed in [THIRD-PARTY-NOTICES.md](THIRD-PARTY-NOTICES.md).
